@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["rocket_app"] = [{"text":"impl&lt;T&gt; Default for Version&lt;T&gt;","synthetic":false,"types":[]},{"text":"impl Default for CustomersResolver","synthetic":false,"types":[]},{"text":"impl Default for OrdersResolver","synthetic":false,"types":[]},{"text":"impl Default for ProductsResolver","synthetic":false,"types":[]},{"text":"impl Default for Resolver","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

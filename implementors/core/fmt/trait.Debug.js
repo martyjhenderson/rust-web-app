@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["rocket_app"] = [{"text":"impl Debug for Error","synthetic":false,"types":[]},{"text":"impl Debug for Error","synthetic":false,"types":[]},{"text":"impl Debug for Kind","synthetic":false,"types":[]},{"text":"impl&lt;T&gt; Debug for Id&lt;T&gt;","synthetic":false,"types":[]},{"text":"impl&lt;T&gt; Debug for Version&lt;T&gt;","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
